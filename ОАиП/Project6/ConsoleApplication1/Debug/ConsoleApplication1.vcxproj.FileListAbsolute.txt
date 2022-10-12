@@ -1,0 +1,3 @@
+D:\C++\work\Test\ConsoleApplication1\Debug\ConsoleApplication1.exe
+d:\C++\work\Project6\ConsoleApplication1\Debug\ConsoleApplication1.exe
+D:\C++\work\1sem\Project6\ConsoleApplication1\Debug\ConsoleApplication1.exe
