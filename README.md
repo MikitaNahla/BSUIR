@@ -1,2 +1,2 @@
-# Main branch
-
+# BSUIR
+This repository for BSUIR. 
