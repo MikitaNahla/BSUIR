@@ -1,2 +1,2 @@
 # BSUIR
-This repository for BSUIR. 
+This repository is for BSUIR. 
