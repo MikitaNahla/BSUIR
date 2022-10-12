@@ -1,2 +1,2 @@
-# Main branch
-
+# BSUIR
+This branch is intended for BSUIR. 
