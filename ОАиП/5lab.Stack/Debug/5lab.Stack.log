@@ -1,0 +1,3 @@
+﻿  Stack.cpp
+D:\C++\work\2sem\5lab.Stack\Stack.cpp(175,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  5lab.Stack.vcxproj -> D:\C++\work\2sem\5lab.Stack\Debug\5lab.Stack.exe
