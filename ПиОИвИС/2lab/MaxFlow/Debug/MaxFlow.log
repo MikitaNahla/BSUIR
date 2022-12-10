@@ -1,0 +1,5 @@
+﻿  MaxFlow.cpp
+D:\Учёба\pioivis\2sem\Лаба2\MaxFlow\MaxFlow.cpp(28,25): warning C4805: ==: небезопасное смешение типа "int" и типа "bool" в операции
+D:\Учёба\pioivis\2sem\Лаба2\MaxFlow\MaxFlow.cpp(32,25): warning C4805: !=: небезопасное смешение типа "int" и типа "bool" в операции
+D:\Учёба\pioivis\2sem\Лаба2\MaxFlow\MaxFlow.cpp(90,15): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  MaxFlow.vcxproj -> D:\Учёба\pioivis\2sem\Лаба2\MaxFlow\Debug\MaxFlow.exe

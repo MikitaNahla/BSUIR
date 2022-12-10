@@ -1,0 +1,52 @@
+TEST 1 
+Comparing files 1.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 2 
+Comparing files 2.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 3 
+Comparing files 3.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 4 
+Comparing files 4.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 5 
+Comparing files 5.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 6 
+Comparing files 6.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 7 
+Comparing files 7.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 8 
+Comparing files 8.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 9 
+Comparing files 9.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 10 
+Comparing files 10.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 11 
+Comparing files 11.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 12 
+Comparing files 12.out and OUTPUT.TXT
+FC: no differences encountered
+
+TEST 13 
+Comparing files 13.out and OUTPUT.TXT
+FC: no differences encountered
+
